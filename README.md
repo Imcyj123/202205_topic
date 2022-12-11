@@ -596,7 +596,7 @@ reward **now**
 解決方法 
 > pip install torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
 
-###### 5/16 ![](https://i.imgur.com/LrnR1tx.png)(已解決)
+###### 5/16 ![](~~https://i.imgur.com/LrnR1tx.png~~)(已解決)
 ###### 5/2 train `nes_py` or `online game`
 ###### 5/1 pyautogui don't work!! (已解決)
 解決方法
